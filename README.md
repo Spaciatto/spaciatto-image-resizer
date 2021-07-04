@@ -1,0 +1,1 @@
+# spaciatto-image-resizer
