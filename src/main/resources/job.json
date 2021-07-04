@@ -1,0 +1,58 @@
+[
+  {
+    "inputImagePath": "C:\\Users\\cyber\\Downloads\\craftpix-901123-free-warrior-4-direction-character-sprites\\Warrior_animations\\Back\\PNGSequences\\Warrior_clothes_1\\",
+    "outputImagePath": "C:\\Users\\cyber\\Documents\\Projetos\\Games-Assets\\Warrior-4-Directions\\Animations\\Basic\\Top\\",
+    "scaledWidth": 64,
+    "scaledHeight": 64,
+    "scaledPercent": 0.00
+  },
+  {
+    "inputImagePath": "C:\\Users\\cyber\\Downloads\\craftpix-901123-free-warrior-4-direction-character-sprites\\Warrior_animations\\Back\\PNGSequences\\Warrior_clothes_2\\",
+    "outputImagePath": "C:\\Users\\cyber\\Documents\\Projetos\\Games-Assets\\Warrior-4-Directions\\Animations\\Advanced\\Top\\",
+    "scaledWidth": 64,
+    "scaledHeight": 64,
+    "scaledPercent": 0.00
+  },
+  {
+    "inputImagePath": "C:\\Users\\cyber\\Downloads\\craftpix-901123-free-warrior-4-direction-character-sprites\\Warrior_animations\\Front\\PNGSequences\\Warrior_clothes_1\\",
+    "outputImagePath": "C:\\Users\\cyber\\Documents\\Projetos\\Games-Assets\\Warrior-4-Directions\\Animations\\Basic\\Down\\",
+    "scaledWidth": 64,
+    "scaledHeight": 64,
+    "scaledPercent": 0.00
+  },
+  {
+    "inputImagePath": "C:\\Users\\cyber\\Downloads\\craftpix-901123-free-warrior-4-direction-character-sprites\\Warrior_animations\\Front\\PNGSequences\\Warrior_clothes_2\\",
+    "outputImagePath": "C:\\Users\\cyber\\Documents\\Projetos\\Games-Assets\\Warrior-4-Directions\\Animations\\Advanced\\Down\\",
+    "scaledWidth": 64,
+    "scaledHeight": 64,
+    "scaledPercent": 0.00
+  },
+  {
+    "inputImagePath": "C:\\Users\\cyber\\Downloads\\craftpix-901123-free-warrior-4-direction-character-sprites\\Warrior_animations\\Left_Side\\PNGSequences\\Warrior_clothes_1\\",
+    "outputImagePath": "C:\\Users\\cyber\\Documents\\Projetos\\Games-Assets\\Warrior-4-Directions\\Animations\\Basic\\Left\\",
+    "scaledWidth": 64,
+    "scaledHeight": 64,
+    "scaledPercent": 0.00
+  },
+  {
+    "inputImagePath": "C:\\Users\\cyber\\Downloads\\craftpix-901123-free-warrior-4-direction-character-sprites\\Warrior_animations\\Left_Side\\PNGSequences\\Warrior_clothes_2\\",
+    "outputImagePath": "C:\\Users\\cyber\\Documents\\Projetos\\Games-Assets\\Warrior-4-Directions\\Animations\\Advanced\\Left\\",
+    "scaledWidth": 64,
+    "scaledHeight": 64,
+    "scaledPercent": 0.00
+  },
+  {
+    "inputImagePath": "C:\\Users\\cyber\\Downloads\\craftpix-901123-free-warrior-4-direction-character-sprites\\Warrior_animations\\Right_Side\\PNGSequences\\Warrior_clothes_1\\",
+    "outputImagePath": "C:\\Users\\cyber\\Documents\\Projetos\\Games-Assets\\Warrior-4-Directions\\Animations\\Basic\\Right\\",
+    "scaledWidth": 64,
+    "scaledHeight": 64,
+    "scaledPercent": 0.00
+  },
+  {
+    "inputImagePath": "C:\\Users\\cyber\\Downloads\\craftpix-901123-free-warrior-4-direction-character-sprites\\Warrior_animations\\Right_Side\\PNGSequences\\Warrior_clothes_2\\",
+    "outputImagePath": "C:\\Users\\cyber\\Documents\\Projetos\\Games-Assets\\Warrior-4-Directions\\Animations\\Advanced\\Right\\",
+    "scaledWidth": 64,
+    "scaledHeight": 64,
+    "scaledPercent": 0.00
+  }
+]
